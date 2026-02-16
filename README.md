@@ -13,22 +13,20 @@ Features:
 6.Strong Password Generator with custom options
 
 Tech Stack:
-Python
-Streamlit
-Regex (re)
-requests
-hashlib
-math
+Python ,
+Streamlit ,
+Regex (re) ,
+requests ,
+hashlib ,
+math ,
 random
 
 Files Included:
-Password.py → Main Streamlit application
-requirements.txt → Required dependencies
+Password.py → Main Streamlit application ,
+requirements.txt → Required dependencies ,
 README.md → Documentation
 
 Developed By:
-
-Shreya Patra
-B.Tech CSE
+Shreya Patra , B.Tech CSE
 
 ⭐ If you like this project, give it a star on GitHub!
